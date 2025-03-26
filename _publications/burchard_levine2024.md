@@ -5,7 +5,7 @@ category: "manuscripts"
 #permalink: "burchard_levine2024.md"
 excerpt: 'irrigation, uav imagery'
 date: "2024-08-01"
-venue: "Precision Agriculture 2024"
+venue: "Precision Agriculture"
 #slidesurl: 
 paperurl: "https://link.springer.com/article/10.1007/s11119-024-10179-0"
 #citation: ''
