@@ -1,4 +1,12 @@
-# Academic Pages
+First draft of my portfolio to test the posibilities of github pages. 
+Under construction. 
+
+I obtained my PhD in Bioscience Engineering from the Katholieke Universiteit Leuven (KU Leuven) in Belgium in November 2020. I am a forestry engineer with a specialization in remote sensing applied to forest management (M.Sc Geomética, Teledetección y Modelos Espaciales Aplicados a la Gestión Forestal - University of Córdoba (UCO)). 
+From January 2023 to December 2024, I worked as Juan de la Cierva post-doctoral researcher at the Institute of Agricultural Sciences (ICA-CSIC) in the Geospatial and Precision Technologies for Sustainable Agriculture group (Tech4Agro) within the plant protection department. I am currently working in the project ECODigital at the same institution. 
+My main research line is to develop technical solutions to support management decisions related to crop status and varieties in breeding programs and agricultural fields based on remote sensing data and open-source tools.
+
+
+<!-- # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
@@ -86,4 +94,4 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+</div> -->
