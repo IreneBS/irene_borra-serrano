@@ -5,7 +5,7 @@ category: "manuscripts"
 #permalink: "borra_serrano2015.md"
 excerpt: 'resampling, OBIA'
 date: "2015-01-01"
-venue: "Sensors (Switzerland)"
+venue: "Sensors"
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: "https://www.mdpi.com/1424-8220/15/8/19688"
 # citation: ''
