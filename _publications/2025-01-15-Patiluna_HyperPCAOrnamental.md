@@ -2,7 +2,7 @@
 title: "Using Hyperspectral Imaging and Principal Component Analysis to Detect and Monitor Water Stress in Ornamental Plants"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-Patiluna_HyperPCAOrnamental
+permalink: /publication/2025-01-15-Patiluna_HyperPCAOrnamental
 excerpt: 'water stress, ornamental plants, hyperspectral imagery.'
 date: 2025-01-15
 venue: 'remote sensing'
