@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "First draft of my portfolio to test the posibilities of github pages. Under construction" # "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Portfolio V1.0" # "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+First draft of my portfolio to test the posibilities of github pages. Under construction.
 
 I obtained my PhD in Bioscience Engineering from the Katholieke Universiteit Leuven (KU Leuven) in Belgium in November 2020. I am a forestry engineer with a specialization in remote sensing applied to forest management (M.Sc Geomética, Teledetección y Modelos Espaciales Aplicados a la Gestión Forestal - University of Córdoba (UCO)). 
 From January 2023 to December 2024, I worked as Juan de la Cierva post-doctoral researcher at the Institute of Agricultural Sciences (ICA-CSIC) in the Geospatial and Precision Technologies for Sustainable Agriculture group (Tech4Agro) within the plant protection department. I am currently working in the project ECODigital at the same institution. 
