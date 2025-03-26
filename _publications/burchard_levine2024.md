@@ -2,11 +2,11 @@
 title: "Evaluating the utility of combining high resolution thermal, multispectral and 3D imagery from unmanned aerial vehicles to monitor water stress in vineyards"
 collection: "publications"
 category: "manuscripts"
-permalink: "burchard_levine2024.md"
+#permalink: "burchard_levine2024.md"
 excerpt: 'irrigation, uav imagery'
 date: "2024-08-01"
 venue: "Precision Agriculture 2024"
-slidesurl: #
+#slidesurl: 
 paperurl: "https://link.springer.com/article/10.1007/s11119-024-10179-0"
 #citation: ''
 ---
