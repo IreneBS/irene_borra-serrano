@@ -22,7 +22,7 @@ repository               : "https://github.com/IreneBS/irene_borra-serrano.git" 
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ibs.jpg" #"profile.png"
   name             : "Irene Borra-Serrano" # "Your Sidebar Name"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Entre la ciencia y el baloncesto" # "Short biography for the left-hand sidebar"
