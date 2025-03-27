@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Contáctame y amplio información de mi carrera científica 
+Contact me for more information about my scientific career ! 
+You can find my <a href="{{site.author.contact}}">my contact info</a> here 
+
 
 <!-- Education
 ======
