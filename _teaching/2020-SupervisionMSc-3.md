@@ -11,7 +11,7 @@ location: "Ghent, Belgium"
 During my PhD I supervised three MSc Thesis with professors from Ghent University. \
 I present them by academic year.
 
-MSc Thesis title: Plant fenotypering met drones. Selectie van soja-variëteiten op basis van thermale en multispectrale beelden. \ 
+MSc Thesis title: Plant fenotypering met drones. Selectie van soja-variëteiten op basis van thermale en multispectrale beelden. \
 Student: Pieter Vermeersch. \
 Academic year: 2021-2022. 
 
