@@ -1,14 +1,17 @@
 ---
-title: "Practice session in Master "
+title: "Practice session in Master Protección Integrada de Cultivos "
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master course"
+permalink: /teaching/2024-UDL-master-1
+venue: "Universitat de Lleida" #, Department"
+date: 2024-04-11
+location: "Lleida, Spain"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Site-specific weed management: state of the art, research carried out in the group and exercice  
+
+
+<!-- This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
@@ -17,4 +20,4 @@ Heading 2
 ======
 
 Heading 3
-======
+====== -->
