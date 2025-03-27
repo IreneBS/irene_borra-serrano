@@ -8,7 +8,7 @@ date: 2024-04-11
 location: "Lleida, Spain"
 ---
 
-Site-specific weed management: state of the art, research carried out in the group and exercice  
+Site-specific weed management: state of the art, research carried out in the group and exercice in QGIS  
 
 
 <!-- This is a description of a teaching experience. You can use markdown like any other post.
