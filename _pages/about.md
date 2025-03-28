@@ -9,9 +9,18 @@ redirect_from:
 
 First draft of my portfolio to test the posibilities of github pages. Under construction.
 
+<p style = "text-align: justify; font-size: 10 pt">
 I obtained my PhD in Bioscience Engineering from the Katholieke Universiteit Leuven (KU Leuven) in Belgium in November 2020. I am a forestry engineer with a specialization in remote sensing applied to forest management (M.Sc Geomética, Teledetección y Modelos Espaciales Aplicados a la Gestión Forestal - University of Córdoba (UCO)). 
 From January 2023 to December 2024, I worked as Juan de la Cierva post-doctoral researcher at the Institute of Agricultural Sciences (ICA-CSIC) in the Geospatial and Precision Technologies for Sustainable Agriculture group (Tech4Agro) within the plant protection department. I am currently working in the project ECODigital at the same institution. 
 My main research line is to develop technical solutions to support management decisions related to crop status and varieties in breeding programs and agricultural fields based on remote sensing data and open-source tools.
+</p>
+
+<!-- <p style = "text-align: justify; font-size: 10 pt">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et pellentesque velit. Quisque lacinia neque eget ipsum accumsan, in varius nisi eleifend. Praesent eu nisl vel erat interdum euismod quis et arcu. Nam fringilla, sapien eu gravida feugiat, lacus mi lobortis tortor, sit amet congue libero dui eget eros. Donec non elementum purus. Nullam massa magna, molestie at maximus eu, imperdiet vel est. Phasellus eu sagittis augue, et aliquam felis. Sed tincidunt pharetra lorem, nec tincidunt lorem egestas nec. 
+</p>
+<p style = "text-align: justify; font-size: 10 pt">
+Vestibulum tristique pretium est, at commodo odio efficitur id. Integer eleifend ante at tortor fringilla commodo. Pellentesque congue congue magna, a pulvinar neque. Quisque nisl odio, fringilla eu dui tempor, maximus mattis est. Nunc maximus felis vitae laoreet aliquet. Vestibulum tincidunt eu magna nec egestas. Nam vel turpis quis massa efficitur imperdiet. Quisque at eros sit amet mi aliquet tristique. Mauris sodales nec lacus quis porta. Morbi elit justo, maximus eget dictum ornare, vestibulum tincidunt neque. In vestibulum leo vitae velit pretium imperdiet. Fusce tincidunt, augue ac dignissim porttitor, mauris purus eleifend justo, a porta nunc felis quis erat. Donec luctus tincidunt vulputate. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec id porttitor leo, in pharetra arcu.
+</p> -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
