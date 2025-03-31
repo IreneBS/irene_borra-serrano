@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Contact me for more information about my scientific career ! 
-You can find <a href="{{site.author.contact}}">my contact info</a> here 
+You can find <a href="{{site.author.contact}}">my contact info</a> here. 
 
 
 <!-- Education
