@@ -8,7 +8,7 @@ date: 2025-03-28
 location: "Madrid, Spain"
 ---
 
-First experience mentoring a PhD student. Improving my assertive communication
+First experience mentoring a PhD student. Improving my assertive communication.
 
 <p style = "text-align: justify; font-size: 10 pt">
 The thesis has an agronomic and technological focus, and is therefore multidisciplinary. 
