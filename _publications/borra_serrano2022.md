@@ -3,7 +3,7 @@ title: "Breeding and Selection of Nursery Plants Assisted by High-Throughput Fie
 collection: "publications"
 category: "manuscripts"
 #permalink: "borra_serrano2022.md"
-excerpt: 'UAV, image analysis, HTFP, nursery plant, ornamental, plant breeding'
+excerpt: "" # 'UAV, image analysis, HTFP, nursery plant, ornamental, plant breeding'
 date: "2022-12-01"
 venue: "Horticulturae"
 slidesurl: #

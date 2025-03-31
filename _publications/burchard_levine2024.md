@@ -3,7 +3,7 @@ title: "Evaluating the utility of combining high resolution thermal, multispectr
 collection: "publications"
 category: "manuscripts"
 #permalink: "burchard_levine2024.md"
-excerpt: 'irrigation, uav imagery'
+excerpt: "" # 'irrigation, uav imagery'
 date: "2024-08-01"
 venue: "Precision Agriculture"
 #slidesurl: 

@@ -3,7 +3,7 @@ title: "Spatial quality evaluation of resampled unmanned aerial vehicle-imagery 
 collection: "publications"
 category: "manuscripts"
 #permalink: "borra_serrano2015.md"
-#excerpt: 'resampling, OBIA'
+excerpt: "" # 'resampling, OBIA'
 date: "2015-01-01"
 venue: "Sensors"
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'

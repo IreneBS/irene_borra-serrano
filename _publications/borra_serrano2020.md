@@ -3,7 +3,7 @@ title: "Closing the Phenotyping Gap: High Resolution UAV Time Series for Soybean
 collection: "publications"
 category: "manuscripts"
 #permalink: "borra_serrano2020.md"
-excerpt: 'canopy cover, canopy height, growth model, curve fitting'
+excerpt: "" # 'canopy cover, canopy height, growth model, curve fitting'
 date: "2020-05-01"
 venue: "remote sensing"
 slidesurl: #
