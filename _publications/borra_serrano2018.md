@@ -3,7 +3,7 @@ title: "Towards an objective evaluation of persistency of Lolium perenne swards 
 collection: "publications"
 category: "manuscripts"
 # permalink: "borra_serrano2018.md"
-excerpt: 'Breeding, Persistency, Vegetation index'
+#excerpt: 'Breeding, Persistency, Vegetation index'
 date: "2018-08-01"
 venue: "Euphytica"
 slidesurl: #
