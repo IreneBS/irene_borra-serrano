@@ -10,3 +10,6 @@ I am testing a couple of new tools and learning how to create a website from scr
 
 As one of the main objectives of Momentum is to learn and broaden my programming skills, it is a great opportunity to invest time on this learning process.  Not only I use AI tools but also I ask around my human friends! 
 
+Update - Section news under control, I am capable of adding as many as I want and even add pictures.  
+Next To do's: change the picture of the main page and add the logo! 
+
