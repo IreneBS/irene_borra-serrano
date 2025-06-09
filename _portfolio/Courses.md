@@ -1,6 +1,7 @@
 ---
 title: "Courses"
 excerpt: "Courses attended to fulfil my PFI" # to Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+date: 2025-06-09
 collection: portfolio
 ---
 
