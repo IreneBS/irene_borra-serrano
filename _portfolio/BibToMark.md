@@ -1,6 +1,7 @@
 ---
 title: "BibtextToMarkdown"
 excerpt: "First repository" # to Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+date: 2025-03-26
 collection: portfolio
 ---
 
