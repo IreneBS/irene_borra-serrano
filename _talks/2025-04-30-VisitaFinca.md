@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-04-30-VisitaFinca
 venue: "ICA-CSIC"
-date: 2024-04-30
+date: 2025-04-30
 location: "Madrid, ESP"
 ---
 
