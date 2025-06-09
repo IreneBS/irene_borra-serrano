@@ -24,5 +24,6 @@ Something I learned is that the files .gitignore is quite crucial to indicate di
 First tests and changes done were in the News section as I plan to update that section regularly as the project progresses.  
 
 Update - Section news under control, I am capable of adding as many as I want and even add pictures.  
-Next To do's: change the picture of the main page and add the logo! 
+Update2 - main page picture and logo added plus funding information and team members. Results and contact section also ready to be used!  
+Next To do's: add a bit more info about the proyect and a new post in the News section 
 
