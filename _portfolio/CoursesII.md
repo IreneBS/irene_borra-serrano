@@ -1,7 +1,7 @@
 ---
 title: "Courses II"
 excerpt: "Courses attended to fulfil my PFI part II" # to Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-date: 2025-08-20
+date: 2025-08-20 # test
 collection: portfolio
 ---
 
