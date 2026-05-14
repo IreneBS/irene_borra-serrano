@@ -16,3 +16,33 @@ I am a forestry engineer with a specialization (M.Sc) in remote sensing applied 
 <p style = "text-align: justify; font-size: 10 pt">
 Project summary --> ECODigital proposes the application of technologies in the fields of remote sensing, sensorisation, artificial intelligence (AI), image analysis algorithms and computer vision for the development and validation of digital tools for agriculture. Digital technology will be used through ground and remote sensing (drone) to monitor crops and their habitat. The entire digitisation workflow will be covered, mainly through low-cost hardware and open source, free and accessible software.<br>ECODigital will be implemented in different plots of the experimental farm La Poveda (managed by ICA-CSIC), through three pilot scenarios covering a wide range of agroecosystems: maize, vineyard and floral margins. In addition to promoting the use of technologies in the agricultural sector, this proposal aims to enhance the resources of the La Poveda estate and the ICA as reference centres for R&D in the digitisation of agriculture. Website TBA.
 </p>
+
+
+## Experience
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2022 – Present</div>
+    <div class="timeline-content">
+      <h3>Senior Researcher</h3>
+      <h4>MIT Media Lab</h4>
+      <p>Leading projects on human-computer interaction and AI ethics.</p>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2019 – 2022</div>
+    <div class="timeline-content">
+      <h3>Postdoctoral Fellow</h3>
+      <h4>Stanford University</h4>
+      <p>Worked on computational social science methods.</p>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2015 – 2019</div>
+    <div class="timeline-content">
+      <h3>PhD in Computer Science</h3>
+      <h4>UC Berkeley</h4>
+      <p>Dissertation: "Networks of Knowledge in Academic Communities"</p>
+    </div>
+  </div>
+</div>

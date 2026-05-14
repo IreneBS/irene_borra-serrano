@@ -41,3 +41,81 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* ===== JOB TIMELINE ===== */
+.timeline {
+  position: relative;
+  padding: 0;
+  list-style: none;
+  margin: 2em 0;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 120px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #d0d0d0;
+  }
+}
+
+.timeline-item {
+  display: flex;
+  gap: 2em;
+  margin-bottom: 2em;
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 113px;
+    top: 6px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: #0092ca; /* change to match your skin color */
+    border: 2px solid white;
+    box-shadow: 0 0 0 2px #0092ca;
+    z-index: 1;
+  }
+}
+
+.timeline-date {
+  min-width: 100px;
+  text-align: right;
+  font-size: 0.8em;
+  color: #666;
+  padding-top: 4px;
+  font-weight: bold;
+}
+
+.timeline-content {
+  padding-left: 1.5em;
+
+  h3 {
+    margin: 0 0 0.2em;
+    font-size: 1.1em;
+  }
+
+  h4 {
+    margin: 0 0 0.4em;
+    font-weight: normal;
+    color: #555;
+    font-size: 0.95em;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.9em;
+    color: #444;
+  }
+}
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  .timeline::before { left: 0; }
+  .timeline-item { flex-direction: column; padding-left: 1.5em; }
+  .timeline-item::before { left: -7px; }
+  .timeline-date { text-align: left; min-width: unset; }
+}

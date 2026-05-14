@@ -92,4 +92,20 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div> -->
+</div> 
+
+---
+info desde claude
+
+🔍 Repository Overview
+Academic Pages is a Jekyll-based GitHub Pages template built on the Minimal Mistakes theme. Its key structure:
+
+_sass/ — All styling (SCSS files)
+_layouts/ — Page templates (HTML + Liquid)
+_includes/ — Reusable components
+_pages/ — Your content pages (Markdown)
+_data/navigation.yml — Sidebar/nav config
+_config.yml — Site-wide settings
+
+
+-->
