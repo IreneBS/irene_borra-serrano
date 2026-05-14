@@ -22,27 +22,42 @@ Project summary --> ECODigital proposes the application of technologies in the f
 
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-date">2022 – Present</div>
-    <div class="timeline-content">
-      <h3>Senior Researcher</h3>
-      <h4>MIT Media Lab</h4>
-      <p>Leading projects on human-computer interaction and AI ethics.</p>
+    <div class="timeline-left">
+      2025 – present
+      <span class="timeline-duration">1.5 yrs</span>
+    </div>
+    <div class="timeline-spine">
+      <div class="timeline-dot" style="background:#378ADD"></div>
+      <div class="timeline-line"></div>
+    </div>
+    <div class="timeline-right">
+      <h3>Postdoc Researcher</h3>
+      <h4>ICA CSIC · Madrid, ESP</h4>
+      <p>Test.</p>
+      <div class="timeline-tags">
+        <span class="timeline-tag">AE</span>
+        <span class="timeline-tag">PhD Supervision</span>
+      </div>
     </div>
   </div>
+  <!-- repeat for each position -->
   <div class="timeline-item">
-    <div class="timeline-date">2019 – 2022</div>
-    <div class="timeline-content">
-      <h3>Postdoctoral Fellow</h3>
-      <h4>Stanford University</h4>
-      <p>Worked on computational social science methods.</p>
+    <div class="timeline-left">
+      2023 – 2024
+      <span class="timeline-duration">2 yrs</span>
     </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2015 – 2019</div>
-    <div class="timeline-content">
-      <h3>PhD in Computer Science</h3>
-      <h4>UC Berkeley</h4>
-      <p>Dissertation: "Networks of Knowledge in Academic Communities"</p>
+    <div class="timeline-spine">
+      <div class="timeline-dot" style="background:#378ADD"></div>
+      <div class="timeline-line"></div>
+    </div>
+    <div class="timeline-right">
+      <h3>Juan de la Cierva Postdoc Researcher</h3>
+      <h4>ICA CSIC · Madrid, ESP</h4>
+      <p>Test.</p>
+      <div class="timeline-tags">
+        <span class="timeline-tag"></span>
+        <span class="timeline-tag"></span>
+      </div>
     </div>
   </div>
 </div>
