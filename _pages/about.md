@@ -17,7 +17,6 @@ I am a forestry engineer with a specialization (M.Sc) in Remote Sensing applied 
 Project summary --> ECODigital proposes the application of technologies in the fields of remote sensing, sensorisation, artificial intelligence (AI), image analysis algorithms and computer vision for the development and validation of digital tools for agriculture. Digital technology will be used through ground and remote sensing (drone) to monitor crops and their habitat. The entire digitisation workflow will be covered, mainly through low-cost hardware and open source, free and accessible software.<br>ECODigital will be implemented in different plots of the experimental farm La Poveda (managed by ICA-CSIC), through three pilot scenarios covering a wide range of agroecosystems: maize, vineyard and floral margins. In addition to promoting the use of technologies in the agricultural sector, this proposal aims to enhance the resources of the La Poveda estate and the ICA as reference centres for R&D in the digitisation of agriculture. Website TBA.
 </p>
 
-
 ## Skills
 
 <div class="skills-wrapper" markdown="0">
@@ -36,7 +35,6 @@ Project summary --> ECODigital proposes the application of technologies in the f
 </div>
 <div>
 <p class="sk-group-title">💻 Programming &amp; data</p>
-<!-- repeat sk-item blocks as above, changing color to #378ADD -->
 <div class="sk-item">
 <div class="sk-item-top"><span>Python</span><span class="sk-level">Basic</span></div>
 <div class="sk-bar-bg"><div class="sk-bar-fill" style="width:50%;background:#378ADD"></div></div>
@@ -61,11 +59,6 @@ Project summary --> ECODigital proposes the application of technologies in the f
 <div class="sk-dot sk-dot-empty"></div>
 </div>
 </div>
-<!-- repeat for each soft skill, adjusting filled/empty dots:
-  Expert       = 5 filled
-  Advanced     = 4 filled, 1 empty
-  Intermediate = 3 filled, 2 empty
-  Basic        = 2 filled, 3 empty  -->
 <div class="sk-soft-card">
 <p class="sk-soft-name">Cross-team collaboration</p>
 <p class="sk-soft-level">Advanced</p>
@@ -91,7 +84,6 @@ Project summary --> ECODigital proposes the application of technologies in the f
 </div>
 </div>
 
-
 ## Experience
 
 <div class="timeline" markdown="0">
@@ -101,13 +93,13 @@ Project summary --> ECODigital proposes the application of technologies in the f
 <span class="timeline-duration">1.5 yrs</span>
 </div>
 <div class="timeline-spine">
-<div class="timeline-dot" style="background:#378ADD"></div> 
+<div class="timeline-dot" style="background:#378ADD"></div>
 <div class="timeline-line"></div>
 </div>
 <div class="timeline-right">
 <h3>Postdoc researcher</h3>
 <h4>Instituto de Ciencias Agrarias (ICA-CSIC) · Madrid, ESP</h4>
-<p>Leading ECODigital proyect.</p>
+<p>Leading ECODigital project.</p>
 <div class="timeline-tags">
 <span class="timeline-tag">Precision Agriculture</span>
 <span class="timeline-tag">AI</span>
@@ -115,20 +107,19 @@ Project summary --> ECODigital proposes the application of technologies in the f
 </div>
 </div>
 </div>
-<!-- repeat for each position -->
 <div class="timeline-item">
 <div class="timeline-left">
 2023 – 2024
 <span class="timeline-duration">2 yrs</span>
 </div>
 <div class="timeline-spine">
-<div class="timeline-dot" style="background:#378ADD"></div>
+<div class="timeline-dot" style="background:#1D9E75"></div>
 <div class="timeline-line"></div>
 </div>
 <div class="timeline-right">
 <h3>Juan de la Cierva Postdoc Researcher</h3>
 <h4>ICA-CSIC · Madrid, ESP</h4>
-<p></p>
+<p>Postdoctoral research fellowship.</p>
 <div class="timeline-tags">
 <span class="timeline-tag">Grant</span>
 <span class="timeline-tag">Precision Agriculture</span>
@@ -136,4 +127,3 @@ Project summary --> ECODigital proposes the application of technologies in the f
 </div>
 </div>
 </div>
-
