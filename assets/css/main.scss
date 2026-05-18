@@ -174,3 +174,51 @@
   .timeline-spine { display: none; }
   .timeline-right { padding-left: 0; border-left: 3px solid #e0e0e0; padding-left: 16px; }
 }
+
+/* ===== COURSES CARDS ===== */
+.cs-summary {
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+gap: 10px;
+margin-bottom: 2rem;
+}
+.cs-stat {
+background: #f5f5f5;
+border-radius: 8px;
+padding: 12px;
+text-align: center;
+}
+.cs-stat-num { font-size: 1.4em; font-weight: 500; }
+.cs-stat-lbl { font-size: 0.7em; color: #888; margin-top: 2px; }
+.cs-section-label {
+font-size: 0.72em;
+font-weight: 500;
+color: #888;
+letter-spacing: .07em;
+text-transform: uppercase;
+margin: 1.5rem 0 0.75rem;
+}
+.cs-grid {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+gap: 10px;
+margin-bottom: 1.5rem;
+}
+.cs-card {
+background: #fff;
+border: 1px solid #eee;
+border-radius: 10px;
+padding: 12px 14px;
+display: flex;
+flex-direction: column;
+gap: 8px;
+}
+.cs-card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+.cs-title { font-size: 0.82em; font-weight: 500; line-height: 1.4; flex: 1; }
+.cs-badge { font-size: 0.7em; padding: 3px 8px; border-radius: 99px; white-space: nowrap; }
+.cs-badge-done    { background: #E1F5EE; color: #085041; }
+.cs-badge-ongoing { background: #FAEEDA; color: #633806; }
+.cs-badge-comp { background: #E6F1FB; color: #0C447C; }
+.cs-card-bottom { display: flex; justify-content: space-between; }
+.cs-org   { font-size: 0.72em; color: #777; }
+.cs-hours { font-size: 0.72em; color: #aaa; }
