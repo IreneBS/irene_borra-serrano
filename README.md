@@ -1,7 +1,7 @@
 First draft of my portfolio to test the posibilities of github pages. 
 Under construction. 
 
-Based on Academic Pages template
+Based on Academic Pages template.
 
 
 <!-- # Academic Pages

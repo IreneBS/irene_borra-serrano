@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Portfolio V1.0" # "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me" # "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites" / "Portfolio V1.0"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-First draft of my portfolio to test the posibilities of github pages. Under construction.
+Draft of my portfolio to test the posibilities of github pages. Under construction.
 
 <p style = "text-align: justify; font-size: 10 pt">
-I am a forestry engineer with a specialization (M.Sc) in remote sensing applied to forest management. I obtained my PhD (Bioscience Engineering, KU Leuven, Belgium) in November 2020. From January 2023 to December 2024, I worked as Juan de la Cierva post-doctoral researcher at the Institute of Agricultural Sciences (ICA-CSIC) in the Geospatial and Precision Technologies for Sustainable Agriculture group (Tech4Agro) within the plant protection department.<br>I am currently working in the project ECODigital at the same institution. My main research line is to develop technical solutions to support management decisions related to crop status and varieties in breeding programs and agricultural fields based on remote sensing data and open-source tools.
+I am a forestry engineer with a specialization (M.Sc) in Remote Sensing applied to forest management. I obtained my PhD (Bioscience Engineering, KU Leuven, Belgium) in November 2020. I am currently working in the project ECODigital at the Institute of Agricultural Sciences (ICA-CSIC) in the Geospatial and Precision Technologies for Sustainable Agriculture group (Tech4Agro). My main research line is to develop technical solutions to support management decisions related to crop status and varieties in breeding programs and agricultural fields based on remote sensing data and open-source tools.
 </p>
 
 <p style = "text-align: justify; font-size: 10 pt">
@@ -27,15 +27,16 @@ Project summary --> ECODigital proposes the application of technologies in the f
       <span class="timeline-duration">1.5 yrs</span>
     </div>
     <div class="timeline-spine">
-      <div class="timeline-dot" style="background:#378ADD"></div>
+      <div class="timeline-dot" style="background:#378ADD"></div> 
       <div class="timeline-line"></div>
     </div>
     <div class="timeline-right">
-      <h3>Postdoc Researcher</h3>
-      <h4>ICA CSIC · Madrid, ESP</h4>
-      <p>Test.</p>
+      <h3>Postdoc researcher</h3>
+      <h4>Instituto de Ciencias Agrarias (ICA-CSIC) · Madrid, ESP</h4>
+      <p>ECODigital proyect.</p>
       <div class="timeline-tags">
-        <span class="timeline-tag">AE</span>
+        <span class="timeline-tag">Precision Agriculture</span>
+        <span class="timeline-tag">AI</span>
         <span class="timeline-tag">PhD Supervision</span>
       </div>
     </div>
@@ -52,12 +53,13 @@ Project summary --> ECODigital proposes the application of technologies in the f
     </div>
     <div class="timeline-right">
       <h3>Juan de la Cierva Postdoc Researcher</h3>
-      <h4>ICA CSIC · Madrid, ESP</h4>
-      <p>Test.</p>
+      <h4>ICA-CSIC · Madrid, ESP</h4>
+      <p></p>
       <div class="timeline-tags">
-        <span class="timeline-tag"></span>
-        <span class="timeline-tag"></span>
+        <span class="timeline-tag">Grant</span>
+        <span class="timeline-tag">Precision Agriculture</span>
       </div>
     </div>
   </div>
 </div>
+

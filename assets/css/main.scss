@@ -118,3 +118,87 @@
   .timeline-spine { display: none; }
   .timeline-right { padding-left: 0; border-left: 3px solid #e0e0e0; padding-left: 16px; }
 }
+
+/* ===== SKILLS SECTION ===== */
+.sk-section-label {
+  font-size: 0.75em;
+  font-weight: 500;
+  color: #888;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0 0 1.25rem;
+}
+
+.sk-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem 3rem;
+  margin-bottom: 2.5rem;
+}
+
+.sk-group-title {
+  font-size: 0.85em;
+  font-weight: 500;
+  margin: 0 0 1rem;
+}
+
+.sk-item { margin-bottom: 14px; }
+
+.sk-item-top {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.82em;
+  margin-bottom: 5px;
+}
+
+.sk-level { color: #aaa; }
+
+.sk-bar-bg {
+  height: 5px;
+  background: #e8e8e8;
+  border-radius: 99px;
+  overflow: hidden;
+}
+
+.sk-bar-fill {
+  height: 100%;
+  border-radius: 99px;
+}
+
+/* Soft skills dots */
+.sk-soft-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.sk-soft-card {
+  background: #f9f9f9;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+
+.sk-soft-name { font-size: 0.82em; font-weight: 500; }
+.sk-soft-level { font-size: 0.75em; color: #888; margin: 4px 0 6px; }
+
+.sk-dots { display: flex; gap: 4px; }
+.sk-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+.sk-dot-filled  { background: #7F77DD; }
+.sk-dot-empty   { background: #ddd; }
+
+@media (max-width: 600px) {
+  .sk-grid { grid-template-columns: 1fr; }
+  .sk-soft-grid { grid-template-columns: 1fr 1fr; }
+}
+
+
+/* ===== Test to change font size ===== */
+/* Publications list */
+.list__item .archive__item-title {
+  font-size: 0.95em;
+}

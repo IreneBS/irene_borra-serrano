@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Irene Borra-Serrano Portfolio" # "Your Name / Site Title"
+site_theme               : "mint" #"default"
+title                    : "Summary" # "Your Name / Site Title" antes "Irene Borra-Serrano Portfolio"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
