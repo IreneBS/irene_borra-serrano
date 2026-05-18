@@ -27,7 +27,7 @@ Introducción a la inteligencia artificial generativa a través de los grandes m
 Diseña tu Entorno Personal de Aprendizaje para la Investigación - CSIC -->
 
 
-<style>
+<!-- <style>
 .cs-summary{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:2rem}
 .cs-stat{background:#f5f5f5;border-radius:8px;padding:12px;text-align:center}
 .cs-stat-num{font-size:1.4em;font-weight:500}
@@ -44,7 +44,7 @@ Diseña tu Entorno Personal de Aprendizaje para la Investigación - CSIC -->
 .cs-card-bottom{display:flex;justify-content:space-between}
 .cs-org{font-size:0.72em;color:#777}
 .cs-hours{font-size:0.72em;color:#aaa}
-</style>
+</style> -->
 
 <p class="cs-section-label">Digital training</p>
 <div class="cs-grid" markdown="0">
