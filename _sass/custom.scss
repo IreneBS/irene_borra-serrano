@@ -142,3 +142,23 @@
   .timeline-spine { display: none; }
   .timeline-right { border-left: 3px solid #e0e0e0; padding-left: 16px; }
 }
+
+/* ===== FIGURE CAPTIONS ===== */
+figure {
+  margin: 1.5em 0;
+  text-align: center;
+}
+figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+figcaption {
+  font-size: 0.75em;
+  color: #888;
+  margin-top: 6px;
+  font-style: italic;
+  text-align: center;
+}
