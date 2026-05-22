@@ -13,8 +13,8 @@ title                    : "Summary" # "Your Name / Site Title" antes "Irene Bor
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://irenebs.github.io/irene_borra-serrano # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://irenebs.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/irene_borra-serrano" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/IreneBS/irene_borra-serrano.git" # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
