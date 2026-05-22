@@ -11,7 +11,7 @@ location: "Madrid, ESP"
 Guía práctica de LLMs: qué usar, cómo usarlos y para qué. 
 Talk together with Christian Rueda.  
 
-<figure>
-<img src="https://irenebs.github.io/irene_borra-serrano/images/SeminarioICA.jpg" alt="My image caption" width="500" height="300"/>
+<figure markdown="0">
+<img src="https://irenebs.github.io/irene_borra-serrano/images/SeminarioICA.jpg" alt="Picture presenting" style="width:400px;"/>
 <figcaption>LLM seminar. Picture by JM Peña</figcaption>
 </figure>
