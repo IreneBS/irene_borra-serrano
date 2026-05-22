@@ -9,7 +9,10 @@ venue: 'remote sensing'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.mdpi.com/2072-4292/17/2/285' # 'https://irenebs.github.io/irene_borra-serrano/files/2025_Patiluna_HyperspectralPCAOrnamentals_remotesensing.pdf' # 'http://academicpages.github.io/files/2025_Patiluna_HyperspectralPCAOrnamentals_remotesensing.pdf'
 # citation: 'Patiluna V, Owen J Jr., Maja JM, Neupane J, Behmann J, Bohnenkamp D, Borra-Serrano I, Peña JM, Robbins J, de Castro A. Using Hyperspectral Imaging and Principal Component Analysis to Detect and Monitor Water Stress in Ornamental Plants. Remote Sensing. 2025; 17(2):285. https://doi.org/10.3390/rs17020285' # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-tags: "Hyperspectral, Water stress, PCA"
+tags: 
+- Hyperspectral
+- Water stress
+- PCA
 ---
 
 <p style = "text-align: justify; font-size: 10 pt">
