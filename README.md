@@ -1,5 +1,5 @@
 First draft of my portfolio to test the posibilities of github pages. 
-Under construction. 
+Under construction. Improved by use of LLM. 
 
 Based on Academic Pages template.
 

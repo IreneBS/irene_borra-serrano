@@ -12,6 +12,6 @@ Guía práctica de LLMs: qué usar, cómo usarlos y para qué.
 Talk together with Christian Rueda.  
 
 <figure markdown="0">
-<img src="https://irenebs.github.io/irene_borra-serrano/images/SeminarioICA.jpg" alt="Picture presenting" style="width:400px;"/>
+<img src="https://irenebs.github.io/irene_borra-serrano/images/SeminarioICA.jpg" alt="Picture presenting" style="width:500px;"/>
 <figcaption>LLM seminar. Picture by JM Peña</figcaption>
 </figure>
