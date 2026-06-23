@@ -3,7 +3,7 @@ title: "Using Hyperspectral Imaging and Principal Component Analysis to Detect a
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-15-Patiluna_HyperPCAOrnamental/
-excerpt: "" # 'water stress, ornamental plants, hyperspectral imagery.'
+excerpt: "" # 'water stress, ornamental plants, hyperspectral imagery.' The excerpt field shows as a teaser in list views. The full body text (below the front matter ---) is what renders when clicking through to the individual page.
 date: 2025-01-15
 venue: 'remote sensing'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'

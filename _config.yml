@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" #"default"
+site_theme               : "mint" #"default" (options¿?: default, dark, air, contrast, mint, sunrise)
 title                    : "Summary" # "Your Name / Site Title" antes "Irene Borra-Serrano Portfolio"
 title_separator          : "-"
 name                     : &name "Your Name"

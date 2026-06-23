@@ -28,7 +28,7 @@ Project summary --> ECODigital proposes the application of technologies in the f
 </div>
 <div class="sk-item">
 <div class="sk-item-top"><span>Google Earth Engine</span><span class="sk-level">Basic</span></div>
-<div class="sk-bar-bg"><div class="sk-bar-fill" style="width:50%;background:#1D9E75"></div></div>
+<div class="sk-bar-bg"><div class="sk-bar-fill" style="width:25%;background:#1D9E75"></div></div>
 </div>
 </div>
 <div>

@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p>Clic on the title to read the abstract. You can also find my articles on <a href="{{site.author.orcid}}" target="_blank">my ORCID profile</a> or <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</p>
+<p>Click on the title to read the abstract. You can also find my articles on <a href="{{site.author.orcid}}" target="_blank">my ORCID profile</a> or <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</p>
 
 <div class="pub-list">
 {% for post in site.publications reversed %}
@@ -35,32 +35,101 @@ author_profile: true
 </div>
 
 
-<!-- {% if site.author.googlescholar %}
-  <div class="wordwrap">Clic on the title to read the abstract. You can also find my articles on <a href="{{site.author.orcid}}">my ORCID profile</a> or <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %} -->
+<!--
+before
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
-<!-- New style rendering if publication categories are defined -->
-<!-- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %} -->
+changes done: 
+archive-single.html is the default include that renders each .md as a plain list item. 
+The fix is to replace that include call with custom HTML that reads the same front matter variables your .md files already have.
+The variables available in the loop are: post.title, post.date, post.venue, post.paperurl, post.citation, post.excerpt.
+It was needed to add two additional fields to each md files and modify publications.html
 
+pub-title is now an <a> tag pointing to post.url with target="_blank" — clicking the title opens the abstract page (the individual .md rendered page) in a new tab
+paperurl drives the Article link directly from the .md front matter — no hardcoding
+Download Paper replaced with Article pointing to the journal URL
+
+Loops through all your existing _publications/*.md files automatically — no manual listing
+Title is a clickable link → opens the abstract page (the .md body text) in a new tab
+Year is pulled from date: in each .md
+Journal name pulled from venue: in each .md
+Article button pulled from paperurl: in each .md → opens journal website in new tab
+Tags pulled from tags: in each .md (optional — cards render fine without it)
+
+Explanation of the file
+Top part is the configuration
+layout: archive → tells Jekyll to use the archive page template (with sidebar)
+title: "Publications" → the tab title shown in the browser
+permalink: /publications/ → the URL where this page lives
+author_profile: true → show the left sidebar with your photo and links
+
+{% include base_path %}
+Liquid tag (Jekyll's templating language, always inside {% %}). 
+It loads a small helper that makes sure all internal links work correctly whether the site is at the root or in a subfolder. 
+Always keep it — don't touch it.
+
+<p> → a paragraph of text. Everything between <p> and </p> is one paragraph
+<a href="..."> → a clickable link. href is where it goes, the text between <a> and </a> is what you click
+target="_blank" → opens the link in a new tab instead of the same tab
+
+Publication container 
+<div class="pub-list">
+  ...all cards go here...
+</div>
+<div> → a generic box/container. By itself it does nothing visible
+class="pub-list" → gives this box a name so CSS can style it. Sort of sticking label on the box that says "style me like pub-list"
+
+Jekyll loop
+{% for post in site.publications reversed %}
+  ...card HTML...
+{% endfor %}
+for every .md file in my _publications/ folder, repeat the card HTML once
+site.publications → Jekyll's list of all publication .md files
+reversed → shows newest first (because files are sorted by date)
+{% endfor %} → marks where the loop stops repeating
+So if there are 8 publication files, the card HTML runs 8 times automatically — one card per publication.
+
+<div class="pub-card">
+Another box labeled pub-card = visible card rectangle for one publication.
+
+<div class="pub-card-top">
+<a class="pub-title" href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+<span class="pub-year">{{ post.date | date: "%Y" }}</span>
+</div>
+<div class="pub-card-top"> → a box that holds the title and year side by side
+{{ post.url }} → Liquid syntax (always inside {{ }}). This reads the permalink: value from the .md file automatically
+{{ post.title }} → reads the title: from the .md file
+target="_blank" → clicking the title opens abstract in a new tab
+<span> → like a <div> but for inline text (doesn't start a new line)
+{{ post.date | date: "%Y" }} → reads date: from the .md and shows only the year (%Y). The | is a filter — like a pipe that transforms the value
+
+<p class="pub-meta">Published in <em>{{ post.venue }}</em></p>
+<p> → a paragraph
+<em> → italic text
+{{ post.venue }} → reads the venue: field from the .md file
+
+<div class="pub-bottom">
+  <div class="pub-tags">
+    {% if post.tags %}
+      {% assign taglist = post.tags | split: ", " %}
+      {% for tag in taglist %}
+        <span class="pub-tag">{{ tag }}</span>
+      {% endfor %}
+    {% endif %}
+  </div>
+  {% if post.paperurl %}
+    <a class="pub-link" href="{{ post.paperurl }}" target="_blank">Article</a>
+  {% endif %}
+</div>
+{% if post.tags %} → only show the tags section if the .md file has a tags: field. If not, nothing appears — no errors
+{% assign taglist = post.tags | split: ", " %} → takes the string "UAV, CNN, Weed" and splits it into a list: ["UAV", "CNN", "Weed"]
+code - change tags to a proper YAML list in each .md
+The inner {% for tag in taglist %} loop → repeats one <span> per tag
+{% if post.paperurl %} → only show the Article button if the .md has a paperurl: field
+{{ post.paperurl }} → reads the DOI/journal URL directly from the .md
+-->
 
 

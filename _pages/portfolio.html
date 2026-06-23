@@ -27,7 +27,8 @@ This first approach to Github pages and my portfolio was a fun learning process.
 {% if post.excerpt %}
 <p class="pub-meta">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
 {% endif %}
-<p style="font-size:0.82em;color:#444;margin:0">{{ post.content | strip_html | truncatewords: 40 }}</p>
+<!-- <p style="font-size:0.82em;color:#444;margin:0">{{ post.content | strip_html | truncatewords: 40 }}</p> --> 
+<!-- removing this line that was pulling the full content --> 
 <div class="pub-bottom">
 <div class="pub-tags">
 {% if post.tags %}

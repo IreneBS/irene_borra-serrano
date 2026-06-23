@@ -25,6 +25,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "ECODigital" # new tab
+    url: /ecodigital/
     
   # - title: "CV"
   #   url: /cv-json/

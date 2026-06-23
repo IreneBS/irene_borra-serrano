@@ -1,8 +1,37 @@
-Based on Academic Pages template. Main objetives of this portfolio are to test the posibilities of github pages and learning.
-Soma changes were implemented by use of LLM.
+Based on Academic Pages template. Some changes were implemented by use of LLM. 
+Main objetives of this portfolio is to test the posibilities of github pages.
 
 Never finished always under construction.  
 
+Repository overview:
+Academic Pages is a Jekyll-based GitHub Pages template built on the Minimal Mistakes theme. 
+Its key structure:
+_sass/ — All styling (SCSS files)
+_layouts/ — Page templates (HTML + Liquid)
+_includes/ — Reusable components
+_pages/ — Your content pages (Markdown)
+_data/navigation.yml — Sidebar/nav config
+_config.yml — Site-wide settings
+
+Changes applied:
+- smaller font size via _sass/_themes.scss -> $doc-font-size: 14;
+- added a job timeline to main page. The cleanest approach is to add an HTML/CSS timeline block directly inside _pages/about.md using raw HTML (Jekyll Markdown supports inline HTML).
+- added a skills summary to main page
+- for correct visualization purposes - check that markdown is not eating html blocks (fix: add markdown="0" to your wrapper div) + add in _config.yml section kramdown the block: parse_block_html: true + remove ALL indentation from your HTML, no blank lines inside divs neither comments
+- visualization with categorized cards in portfolio entry instead of plain text 
+- created a dedicated file for custom CSS (instead of piling everything into main.scss), better for maintenance and avoids compilation conflicts -> _sass/custom.scss + added the @import "custom"; to assets/css/main.scss
+- style the figcaption to get a centered image with a small italic grey caption below it 
+- cheatsheet 
+- visualization with cards for publications
+- card layout for the other tabs
+- added a new tab/page that contains project info
+
+<!--
+PDF files - Upload to files/ folder in your repo, link as /files/yourfile.pdf
+Team photos - Upload to images/, reference as /images/photo.jpg
+Funding logos - Upload to images/, preferably .png with transparent background
+Banner photo - Upload to images/ecodigital-banner.jpg — if absent the gradient fallback is used automatically
+-->
 
 <!-- # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
@@ -95,17 +124,7 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 </div> 
 
 ---
-info desde claude
 
-🔍 Repository Overview
-Academic Pages is a Jekyll-based GitHub Pages template built on the Minimal Mistakes theme. Its key structure:
-
-_sass/ — All styling (SCSS files)
-_layouts/ — Page templates (HTML + Liquid)
-_includes/ — Reusable components
-_pages/ — Your content pages (Markdown)
-_data/navigation.yml — Sidebar/nav config
-_config.yml — Site-wide settings
 
 
 -->
