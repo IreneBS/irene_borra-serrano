@@ -1,7 +1,7 @@
-First draft of my portfolio to test the posibilities of github pages. 
-Under construction. Improved by use of LLM. 
+Based on Academic Pages template. Main objetives of this portfolio are to test the posibilities of github pages and learning.
+Soma changes were implemented by use of LLM.
 
-Based on Academic Pages template.
+Never finished always under construction.  
 
 
 <!-- # Academic Pages
