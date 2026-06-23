@@ -12,7 +12,7 @@ I am a forestry engineer with a specialization (M.Sc) in Remote Sensing applied 
 </p>
 
 <p style = "text-align: justify; font-size: 10 pt">
-Project summary --> ECODigital proposes the application of technologies in the fields of remote sensing, sensorisation, artificial intelligence, image analysis algorithms and computer vision for the development and validation of digital tools for agriculture. Digital technology will be used through ground and remote sensing to monitor crops and their habitat. The entire digitisation workflow will be covered, mainly through low-cost hardware and open source, free and accessible software. ECODigital will be implemented in plots of the experimental farm La Poveda (managed by ICA-CSIC), through three pilot scenarios covering a wide range of agroecosystems: maize, vineyard and floral margins. In addition to promoting the use of technologies in the agricultural sector, this proposal aims to enhance the resources of the La Poveda estate and ICA as reference center for R&D in the digitisation of agriculture. Website TBA.
+For more information about the Project, click on the ECODigital tab in the top bar.
 </p>
 
 ## Skills
