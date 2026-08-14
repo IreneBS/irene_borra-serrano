@@ -24,7 +24,7 @@ For more information about the Project, click on the ECODigital tab in the top b
 <p class="sk-group-title">🗺️ GIS &amp; spatial analysis</p>
 <div class="sk-item">
 <div class="sk-item-top"><span>QGIS</span><span class="sk-level">Expert</span></div>
-<div class="sk-bar-bg"><div class="sk-bar-fill" style="width:92%;background:#1D9E75"></div></div>
+<div class="sk-bar-bg"><div class="sk-bar-fill" style="width:80%;background:#1D9E75"></div></div>
 </div>
 <div class="sk-item">
 <div class="sk-item-top"><span>Google Earth Engine</span><span class="sk-level">Basic</span></div>
@@ -35,11 +35,11 @@ For more information about the Project, click on the ECODigital tab in the top b
 <p class="sk-group-title">💻 Programming &amp; data</p>
 <div class="sk-item">
 <div class="sk-item-top"><span>Python</span><span class="sk-level">Basic</span></div>
-<div class="sk-bar-bg"><div class="sk-bar-fill" style="width:50%;background:#378ADD"></div></div>
+<div class="sk-bar-bg"><div class="sk-bar-fill" style="width:25%;background:#378ADD"></div></div>
 </div>
 <div class="sk-item">
 <div class="sk-item-top"><span>SQL</span><span class="sk-level">Basic</span></div>
-<div class="sk-bar-bg"><div class="sk-bar-fill" style="width:50%;background:#378ADD"></div></div>
+<div class="sk-bar-bg"><div class="sk-bar-fill" style="width:25%;background:#378ADD"></div></div>
 </div>
 </div>
 </div>
@@ -124,4 +124,20 @@ For more information about the Project, click on the ECODigital tab in the top b
 </div>
 </div>
 </div>
+<div class="timeline-item">
+<div class="timeline-left">
+2021 – 2022
+<span class="timeline-duration">2 yrs</span>
+</div>
+<div class="timeline-spine">
+<div class="timeline-dot" style="background:#1D9E75"></div>
+<div class="timeline-line"></div>
+</div>
+<div class="timeline-right">
+<h3>Postdoc Researcher</h3>
+<h4>ILVO · Melle, BE</h4>
+<p>High-Throughput Field Phenotyping (HTFP) research line.</p>
+<div class="timeline-tags">
+<span class="timeline-tag">Coordinator</span>
+<span class="timeline-tag">Phenotyping</span>
 </div>
